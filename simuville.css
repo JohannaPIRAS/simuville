@@ -1,0 +1,42 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.titre p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.titre {
+    background-color: #DCDCDC;
+    margin-top: 0%;
+    height: 125px;
+}
+
+#inputs {
+    text-align: left;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#parametrer {
+    color: white;
+    margin-right: 100%
+}
+
+#lancer_simu {
+    height: 90%;
+    width: 100%;
+    color: white;
+}
+
+#ville1 {
+    margin-left: 2%;
+}
+
+#stats {
+    margin-left: 2%;
+}
